@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/cultuurnet/monolog-socketio.svg?branch=master)](https://travis-ci.org/cultuurnet/monolog-socketio) [![Coverage Status](https://coveralls.io/repos/github/cultuurnet/monolog-socketio/badge.svg)](https://coveralls.io/github/cultuurnet/monolog-socketio)
